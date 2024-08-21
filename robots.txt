@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://rabonaplay.com /sitemap_index.xml
